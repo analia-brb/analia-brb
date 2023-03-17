@@ -1,16 +1,16 @@
-### Hi there 👋
+¡Hola! 👋
 
 <!--
-**analia-brb/analia-brb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Te cuento algunas cosas sobre mi: 
 
-Here are some ideas to get you started:
+🌍 Vivo en Montevideo, Uruguay
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📚 Me apasiona la educación en todos sus roles
+
+💙 Amo viajar, conocer nuevas culturas, escuchar música y bailar 
+
+💻 Soy una novel programadora con ganas de seguir capacitándome en esta genial profesión
+
+📌 Puedes ver algunas de mis experiencias visitando mi repositorio o mi perfil en Linkedin: https://www.linkedin.com/in/analia-barboza/ 
+
 -->
